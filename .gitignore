@@ -1,0 +1,16 @@
+script.cpp
+
+# Logs
+logs
+*.log
+
+# Runtime data
+dist
+*.local
+*.o
+*.exe
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
